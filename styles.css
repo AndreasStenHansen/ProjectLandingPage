@@ -1,6 +1,6 @@
 /* {
     border: 2px red solid;
-}*/
+} */
 
 body {
     margin: 0;
@@ -172,4 +172,14 @@ li {
     width: 120px;   
     font-weight: bold;
     text-align: center;
+}
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 20px;
+    color: white;
 }
