@@ -12,6 +12,20 @@ ul {
     margin-right: 300px;
 }
 
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 16px;
+    border-radius: 8px;
+    height: 30px;
+    width: 120px;
+    align-items: center;
+    border: none;   
+    font-weight: bold;; 
+}
+
+
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -33,3 +47,12 @@ li {
     font-size: 24px;
     font-weight: bold;
 }
+
+.left-side-text {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
